@@ -1,3 +1,15 @@
 [submodule "my_process_hid"]
 	path = my_process_hid
 	url = https://github.com/SuzumiyaAsahi/my_process_hid
+[submodule "my_sudo_hack"]
+	path = my_sudo_hack
+	url = git@github.com:SuzumiyaAsahi/my_sudo_hack.git
+[submodule "my_execve_hack"]
+	path = my_execve_hack
+	url = git@github.com:SuzumiyaAsahi/my_execve_hack.git
+[submodule "my_anti_trace"]
+	path = my_anti_trace
+	url = git@github.com:SuzumiyaAsahi/my_anti_trace
+[submodule "aya-bad-ebpf-ssh_key-bypass"]
+	path = aya-bad-ebpf-ssh_key-bypass
+	url = git@github.com:SuzumiyaAsahi/aya-bad-ebpf-ssh_key-bypass.git
