@@ -1,0 +1,3 @@
+[submodule "my_process_hid"]
+	path = my_process_hid
+	url = https://github.com/SuzumiyaAsahi/my_process_hid
